@@ -11,7 +11,7 @@ presskit_download_link                    : #https://emilbaehr.com              
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Gratis                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Mis Quinielas es una aplicación que te permite seguir en vivo cuántos aciertos llevas en tus quinielas, tanto simples como reducidas o elige 8 (el soporte a Elige 8 es básico de momento). También te ayuda a realizar tus quinielas mostrándote la probabilidad de cada resultado.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
