@@ -47,11 +47,11 @@ features                                  :
     fontawesome_icon_name                 : filter
 
   - title                                 : Elige 8
-    description                           : Soporte básico a Elige 8 (la integración en la app se iré implementando progresivamente).
+    description                           : Soporte básico a Elige 8 (la integración en la app se irá complementando progresivamente).
     fontawesome_icon_name                 : stream
 
   - title                                 : Información previa de cada partido
-    description                           : Probabilidad de cada resultado, racha de los últimos cinco partidos y porcentaje de apuestas realizadas a cada signo. También puedes consultar en qué cadena de televisión ver el partido.
+    description                           : Probabilidad de cada resultado, racha de los últimos cinco partidos y porcentaje de apuestas realizadas a cada signo.
     fontawesome_icon_name                 : info-circle
 
   - title                                 : Información de los partidos en juego
